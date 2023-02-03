@@ -1,0 +1,86 @@
+#EXTM3U
+#EXTINF:-1,AZTECA +
+http://201.190.40.45:58002/play/a015/index.m3u8
+#EXTINF:-1,ADN 40
+http://201.190.40.45:58002/play/a00s/index.m3u8
+#EXTINF:-1,AZTECA 7
+http://201.190.40.45:58002/play/a00r/index.m3u8
+#EXTINF:-1,AZTECA UNO
+http://201.190.40.45:58002/play/a00q/index.m3u8
+#EXTINF:-1,UNIVISION
+http://190.97.183.26:8000/play/a007/index.m3u8
+#EXTINF:-1,DE PELICULA
+http://177.93.50.42:9000/play/a04q/index.m3u8
+#EXTINF:-1,TELEHIT PLUS
+http://177.93.50.42:9000/play/a04o/index.m3u8
+#EXTM3U
+#EXTINF:-1,La voz de Maria-CH05
+http://45.228.234.77:4430/play/lavozdemaria
+#EXTINF:-1,CARTOON NT HD-CH15
+http://45.228.234.77:4430/play/cartoonnetworkhd
+#EXTINF:-1,Discovery Kids-CH17
+http://45.228.234.77:4430/play/discoverykids
+#EXTINF:-1,Nick SIM HD-CH18
+http://45.228.234.77:4430/play/nickelodeon
+#EXTINF:-1,Univision HD-CH26
+http://45.228.234.77:4430/play/univision
+#EXTINF:-1,Home & Health HD-CH28
+http://45.228.234.77:4430/play/homeandhealth
+#EXTINF:-1,Comedy Central HD-CH31
+http://45.228.234.77:4430/play/comedy_central
+#EXTINF:-1,Discovery Channel HD-CH36
+http://45.228.234.77:4430/play/discoverychannel
+#EXTINF:-1,Discovery ID HD-CH37
+http://45.228.234.77:4430/play/discoveryid
+#EXTINF:-1,Discovery Turbo-CH38
+http://45.228.234.77:4430/play/discoveryturbo
+#EXTINF:-1,CineMax-CH40
+http://45.228.234.77:4430/play/cinemax
+#EXTINF:-1,Bandamax-CH44
+http://45.228.234.77:4430/play/bandamax
+#EXTINF:-1,HBO2 HD-CH47
+http://45.228.234.77:4430/play/hbodoshd
+#EXTINF:-1,TNT Series HD-CH48
+http://45.228.234.77:4430/play/tntseries
+#EXTINF:-1,DePelicula-CH49
+http://45.228.234.77:4430/play/depelicula
+#EXTINF:-1,AXN HD-CH51
+http://45.228.234.77:4430/play/axnhd
+#EXTINF:-1,TNT HD-CH55
+http://45.228.234.77:4430/play/tnthd
+#EXTINF:-1,Universal-CH57
+http://45.228.234.77:4430/play/universal
+#EXTINF:-1,TUDN-CH59
+http://45.228.234.77:4430/play/tudn
+#EXTINF:-1,ESPN HD-CH60
+http://45.228.234.77:4430/play/espnhd
+#EXTINF:-1,ESPN 2 HD-CH61
+http://45.228.234.77:4430/play/espndoshd
+#EXTINF:-1,ESPN 3 HD-CH62
+http://45.228.234.77:4430/play/espntreshd
+#EXTINF:-1,FOX SPORTS 2 HD-CH63
+http://45.228.234.77:4430/play/foxsportsdoshd
+#EXTINF:-1,FOX SPORTS 3 HD-CH64
+http://45.228.234.77:4430/play/foxsportstreshd
+#EXTINF:-1,Canal 65
+http://45.228.234.77:4430/play/canalseiscinco
+#EXTINF:-1,MTV SIM HD-CH45
+http://45.228.234.77:4430/play/mtvhits
+#EXTINF:-1,SPACE HD-CH53
+http://45.228.234.77:4430/play/space
+#EXTINF:-1,NAT GEO WILD
+http://45.5.117.138:8005/play/a003/index.m3u8
+#EXTINF:-1,PASIONES
+http://45.5.117.138:8005/play/a00e/index.m3u8
+#EXTINF:-1,TELEHIT
+http://45.5.117.138:8005/play/a001/index.m3u8
+#EXTINF:-1,TELESUR
+http://45.5.117.138:8005/play/a00g/index.m3u8
+#EXTINF:-1,TUDN
+http://45.5.117.138:8005/play/a00f/index.m3u8
+#EXTINF:-1,Tele Novelas
+http://45.5.117.138:8005/play/a00i/index.m3u8
+#EXTINF:-1,UNIVISION
+http://45.5.117.138:8005/play/a00c/index.m3u8
+#EXTINF:-1,tn23
+http://45.5.117.138:8005/play/a00k/index.m3u8
